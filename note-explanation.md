@@ -4,3 +4,4 @@
 เขียนโครงสร้าง 6 ส่วนเสร็จ
 ใช้ tailwind เพิ่ม class ใน header ทำแทบสีขาว
 ผมสร้่าง folder image และ video และเอาไฟล์ตามที่กำหนดมาใส่ไว้
+เพิ่ม logo ใน header สร้าง nevigation ของ mobile แลพ desktop

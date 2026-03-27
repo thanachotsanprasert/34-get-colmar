@@ -9,16 +9,28 @@
 <title>34-get-colmar</title>
 </head>
 
-<!-- ส่วนที่ 1 header -->
-<body>
+<body class="bg-gray-50 text-gray-800 font-sans">
+    
 <header class="flex justify-between items-center p-4 bg-white shadow-md">
 <div class="flex items-center gap-2">
-
-
+    <img src="./images/ic-logo.svg" alt="Colmar Logo" class="h-8 w-8">
+    <span class="text-xl font-bold text-gray-800"> Colmar Academy Baby </span>
 </div>
     <nav>
-        <!--เอาไว้ใส่ logo กับ link-->
-    </nav>
+        <!--ส่วน navigstor ของ desktop-->
+        <ul class="hidden md:flex gap-6 text-gray-600">
+            <li><a href="#" class="hover:text-black">On campus</a></li>
+            <li><a href="#" class="hover:text-black">Online</a></li>
+            <li><a href="#" class="hover:text-black">For Companies</a></li>
+            <li><a href="#" class="hover:text-black">Sign อิน</a></li>
+        </ul>
+        
+        <!--ส่วน navigstor ของ mobile-->
+        <ul class="flex md:hidden gap-4">
+            <li><a herf="#"><img scr="./images/ic-on-campus.svg" alt="On campus" class="h-6 w-6"></a></li>
+            <li><a herf="#"><img scr="./images/ic-online.svg" alt="Online" class="h-6 w-6"></a></li>
+            <li><a herf="#"><img scr="./images/ic-login.svg" alt="Login" class="h-6 w-6"></a></li>
+        </ul>
 </header>
 
 <!--main จะมี 4 ส่วน (เรียกว่า middle sections)-->
