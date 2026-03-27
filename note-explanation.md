@@ -5,4 +5,8 @@
 ใช้ tailwind เพิ่ม class ใน header ทำแทบสีขาว
 ผมสร้่าง folder image และ video และเอาไฟล์ตามที่กำหนดมาใส่ไว้
 เพิ่ม logo ใน header สร้าง nevigation ของ mobile แลพ desktop
-เริ่มทำ main section ส่วนที่ 1 Banner รูป และ Learn something new everyday 
+เริ่มทำ main section ส่วนที่ 1 Banner รูป และ Learn something new everyday h1
+ทำส่วนที่สองรูปผู้ชายอ่านหนังสือ ในส่วน information h2
+ทำการ์ดใบที่ 1 ด้านขวาของผู้ชายอื่นหนังสือ เรื่อง orientation
+ทำการ์ดใบที่ 2 ด้านขวาของผู้ชายอื่นหนังสือ เรื่องแคมปัส
+ทำการ์ดใบที่ 3 ด้านขวาของผู้ชายอื่นหนังสือ guest lecture
